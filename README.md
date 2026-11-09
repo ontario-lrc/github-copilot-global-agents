@@ -11,7 +11,7 @@ The collection uses functional prefixes: `0x` orchestration, `1x` analysis/desig
 
 | Agent | Responsibility |
 |---|---|
-| 00 Project Manager / Orchestrator | Workflow coordination, specialist routing, approvals, and synthesis |
+| 00 Orchestrator | Workflow coordination, specialist routing, approvals, and synthesis |
 | 10 Codebase Explorer | Read-only repository discovery and impact investigation |
 | 11 Requirements Analyst | Requirements and acceptance criteria |
 | 12 Software Architect | Solution architecture and technical design |
